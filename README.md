@@ -24,14 +24,14 @@ I have also managed to obtain different certificates from various programming as
 
 - Skills:
 
-1.Strong understanding of web development using HTML, CSS, and JavaScript.
-2.Knowledge of backend programming with Python, PHP, and Node.js.
-3.Experience working with databases and writing SQL queries for data management.
-4.Familiar with C programming for system-level and performance-oriented applications.
-5.Understanding of .NET technologies for developing robust and scalable applications.
-6.Ability to build full-stack applications, integrating front-end and back-end technologies.
-7.Skilled in debugging, problem-solving, and optimizing code performance.
-8.Knowledge of software design principles, object-oriented programming (OOP), and version control systems like Git.
+-1.Strong understanding of web development using HTML, CSS, and JavaScript.
+-2.Knowledge of backend programming with Python, PHP, and Node.js.
+-3.Experience working with databases and writing SQL queries for data management.
+-4.Familiar with C programming for system-level and performance-oriented applications.
+-5.Understanding of .NET technologies for developing robust and scalable applications.
+-6.Ability to build full-stack applications, integrating front-end and back-end technologies.
+-7.Skilled in debugging, problem-solving, and optimizing code performance.
+-8.Knowledge of software design principles, object-oriented programming (OOP), and version control systems like Git.
 
 ## Github Statistics:
 
