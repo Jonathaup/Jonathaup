@@ -19,6 +19,7 @@ I have also managed to obtain different certificates from various programming as
 ## Technologies and Tools
 
 - Proficient in: HTML, CSS, Javascript, Python, PHP, SQL, C, .NET, Node.js.
+- 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathaup&layout=compact&theme=radical)
 
 - Skills:
@@ -34,7 +35,7 @@ I have also managed to obtain different certificates from various programming as
 
 ## Github Statistics:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathaup&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathaup&show_icons=true&theme=radical)
 
 
 ## Let's Connect!
