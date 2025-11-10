@@ -5,7 +5,8 @@ Hello, GitHub! 👋
 I'm Jonathan, a student at Brigham Young University-Idaho interested in computer science, data science, web development, and machine learning. Welcome to my GitHub profile!
 
 ## About Me
--Summary: 
+- Summary:
+  
 Most of my memories have to do with technology and dreaming of building apps and websites. Lying is saying that programming isn’t my passion. I enjoy coding, and it keeps me awake at night. Every day, look for new ways to learn in this field. I hope to learn more about the world of technology and programming.
 Currently, I'm working on studying to complete my programming and technology degree.
 With nearly 3 years of hands-on experience, I have worked with languages such as HTML, CSS, JAVASCRIPT, TYPESCRIPT, PYTHON, PHP, and SQL. I have worked in the implementation of Web pages with the development of both HTML and CSS, also using Node.js and React, demonstrating how significant this environment is in my life.
